@@ -1,0 +1,8 @@
+{
+  "name": "blank-stats",
+  "app_id": "752f738d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
